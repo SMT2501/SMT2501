@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Samkele 
-- 👀 I’m interested in programing 
-- 🌱 I’m currently learning Computer Engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .. ssmthuli@gmail.com
-
-<!---
-SMT2501/SMT2501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Samkele Samson Mthuli, a Computer Science student at the University of the Western Cape and the founder of Virtuo Designs. I’m a passionate web and software developer with a knack for creating modern, user-centric applications—whether it’s a sleek website, a mobile app, or an event ticketing platform. My journey in tech is fueled by a love for innovation and problem-solving, but coding is just one part of who I am. When I’m not building apps, you’ll find me rocking the decks as DJ Black Ghost, organizing epic events through Blacktickets, or diving into the pool for a refreshing swim. I believe in the power of technology to transform lives, and I’m here to craft digital experiences that leave a lasting impact.
